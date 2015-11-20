@@ -1,0 +1,26 @@
+{
+  "name": "js-gems",
+  "version": "1.0.0",
+  "description": "The demo code for my talk on the beauty of JavaScript - JavaScript Gems.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rockncoder/JavaScriptGems.git"
+  },
+  "keywords": [
+    "javascript",
+    "es5",
+    "es6",
+    "typescript",
+    "RxJS"
+  ],
+  "author": "Troy Miles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rockncoder/JavaScriptGems/issues"
+  },
+  "homepage": "https://github.com/Rockncoder/JavaScriptGems#readme"
+}
